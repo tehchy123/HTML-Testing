@@ -1,6 +1,6 @@
 # HTML-Testing
 
-This Repository is used for trying out the HTML script that I used in my ![learnhtml](https://github.com/tehchy123/LarnHTML)
+This Repository is used for trying out the HTML script that I used in my ![learnhtml](https://github.com/tehchy123/LearnHTML)
 
 Repository made at 11:20am on the 3rd of December 2022 (03/12/2022)
 
